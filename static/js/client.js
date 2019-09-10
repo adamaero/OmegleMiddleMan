@@ -6,8 +6,8 @@ var websiteTitle = 'Omegle';
 
 // Default settings
 var omegleSettings = omegleSettings || {
-    defaultTopics: 'noMultiRP,rp,roleplay',
-    defaultMessage: 'Please make a copy of static/js/settings_example.js, and call it static/js/settings.js You can change the settings to fit your needs',
+    defaultTopics: 'Effective Altruism,Buddhism,death,dying,advice,literature,volunteer,volunteering,nonfiction,debate,vegan,vegetarian,diet',
+    defaultMessage: "Hey, I'm Adam.",
     reroll: true,
     moderated: true,
     spy: false,
