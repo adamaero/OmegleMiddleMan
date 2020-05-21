@@ -6,7 +6,7 @@ var websiteTitle = 'Omegle';
 
 // Default settings
 var omegleSettings = omegleSettings || {
-    defaultTopics: 'Effective Altruism,Buddhism,death,dying,advice,literature,volunteer,volunteering,nonfiction,debate,vegan,vegetarian,diet',
+    defaultTopics: 'Wisconsin,Iowa,Platteville,Madison,Milwaukee,Dubuque,Effective Altruism,Buddhism,death,dying,advice,literature,volunteer,volunteering,nonfiction,debate,vegan,vegetarian,diet',
     defaultMessage: "Hey, I'm Adam.",
     reroll: true,
     moderated: true,
